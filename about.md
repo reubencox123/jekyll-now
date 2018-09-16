@@ -4,11 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I LIKE FOOTBAL AND PI.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+IN CSS MY FAVOURITE THING TO DO IS MAKE THICK BORDERS AND ROUNDED CORNERS FOR MY CONTAINERS.
 
 ### Contact me
 
