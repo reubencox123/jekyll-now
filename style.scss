@@ -285,8 +285,14 @@ footer {
 }
 
 table {
-    border: 3px #008000;
     border-collapse: collapse;
+}
+
+table, th, td {
+    border: 5px;
+    border-radius: 10px;
+    border-color: #9900cc;
+    border-style: double;
 }
   
 
